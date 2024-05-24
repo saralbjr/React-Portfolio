@@ -127,7 +127,7 @@ const EmailLink = styled.a`
   width: 95%;
   max-width: 300px;
   text-align: center;
-  padding: 18px 0;
+  padding: 16px 0;
   color: ${({ theme }) => theme.white};
   border-radius: 20px;
   cursor: pointer;
@@ -179,7 +179,7 @@ const Contact = () => {
         <Title>Contact</Title>
         <Desc>Feel free to reach out to me on my email.</Desc>
         <EmailLink href="mailto:example@example.com?subject=Hello%20There&body=I%20would%20like%20to%20get%20in%20touch%20with%20you.">
-          Email Us
+          Click to Email
         </EmailLink>
         <Snackbar
           open={open}
