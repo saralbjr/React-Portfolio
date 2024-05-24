@@ -9,7 +9,7 @@ export const Bio = {
     "I am an enthusiastic and adaptable person, always keen to embrace new opportunities. With a zeal for knowledge, I am committed to producing excellent outcomes. With an optimistic outlook and a progressive mindset, I am prepared to make a significant impact and accomplish remarkable goals.",
   github: "https://github.com/iamAkuma",
   resume:
-    "",
+    "https://drive.google.com/file/d/1BjQaVxtzxJomQosxZTzXizcAondgKvwk/view?usp=sharing",
   twitter: "",
   linkedin: "https://www.linkedin.com/in/saralbjr/",
   insta: "https://www.instagram.com/saral.bjr/",
