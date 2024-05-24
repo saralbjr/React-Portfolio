@@ -178,7 +178,7 @@ const Contact = () => {
       <Wrapper>
         <Title>Contact</Title>
         <Desc>Feel free to reach out to me on my email.</Desc>
-        <EmailLink href="mailto:example@example.com?subject=Hello%20There&body=I%20would%20like%20to%20get%20in%20touch%20with%20you.">
+        <EmailLink href="mailto:saralbjr@gmail.com?subject=Hello%20There&body=I%20Your%20Message%20Here!.">
           Click to Email
         </EmailLink>
         <Snackbar
