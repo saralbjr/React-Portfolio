@@ -1,9 +1,9 @@
 export const Bio = {
   name: "Saral Bajracharya",
   roles: [
-    "Web Developer",
-    "Programmer",
-    "Problem Solver"
+    "Web Developer!",
+    "Programmer!!",
+    "Curious Leaner!!!"
   ],
   description:
     "I am an enthusiastic and adaptable person, always keen to embrace new opportunities. With a zeal for knowledge, I am committed to producing excellent outcomes. With an optimistic outlook and a progressive mindset, I am prepared to make a significant impact and accomplish remarkable goals.",
