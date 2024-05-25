@@ -46,6 +46,7 @@ margin-top: 20px;
 const Desc = styled.div`
     font-size: 18px;
     text-align: center;
+    margin-bottom: 20px;
     max-width: 600px;
     color: ${({ theme }) => theme.text_secondary};
     @media (max-width: 768px) {
@@ -178,7 +179,7 @@ const Contact = () => {
       <Wrapper>
         <Title>Contact</Title>
         <Desc>Feel free to reach out to me on my email.</Desc>
-        <EmailLink href="mailto:saralbjr@gmail.com?subject=Hello%20There&body=I%20Your%20Message%20Here!.">
+        <EmailLink href="https://mail.google.com/mail/?view=cm&fs=1&to=saralbjr@gmail.com&su=Hello&body=I%20would%20like%20to%20get%20in%20touch%20with%20you.">
           Click to Email
         </EmailLink>
         <Snackbar
