@@ -188,7 +188,7 @@ export const experiences = [
   {
     id: 0,
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz-zf3hx5KX475VtfDufuUVps945SnX9Bnew&s",
-    role: "WordPress Developer as a Creative Team Member",
+    role: "WordPress Developer Intern",
     company: "Kathmandu Technical School, Kathmandu",
     date: "May 2024-",
     desc: "My role involves revamping the school's website on WordPress and writing blogs to optimize SEO.",
