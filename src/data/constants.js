@@ -145,6 +145,11 @@ export const skills = [
         image:
           "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
       },
+      {
+        name: "WordPress",
+        image:
+          "https://s.w.org/about/images/logos/wordpress-logo-notext-rgb.png",
+      },
       // {
       //   name: "Docker",
       //   image:
