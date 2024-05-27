@@ -12,7 +12,7 @@ const Projects = ({ openModal, setOpenModal }) => {
       <Wrapper>
         <Title>Projects</Title>
         <Desc>
-          COMING SOON!
+          Here are some of the projects I have done given below:
         </Desc>
         {/* <ToggleButtonGroup >
           {toggle === 'all' ?
