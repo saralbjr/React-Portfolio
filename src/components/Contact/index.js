@@ -179,7 +179,7 @@ const Contact = () => {
       <Wrapper>
         <Title>Contact</Title>
         <Desc>Feel free to reach out to me on my email.</Desc>
-        <EmailLink href="https://mail.google.com/mail/?view=cm&fs=1&to=saralbjr@gmail.com&su=Hello&body=I%20would%20like%20to%20get%20in%20touch%20with%20you.">
+        <EmailLink href="mailto:example@gmail.com?subject=Hello&body=How%20are%20you?">
           Click to Email
         </EmailLink>
         <Snackbar
