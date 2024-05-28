@@ -323,16 +323,10 @@ export const projects = [
     title: "RaksiPasa",
     date: "2023",
     description:
-      "Trackify is a web application designed to streamline task management and enhance productivity in the workplace. It provides a user-friendly interface for employers to keep track of their employees' daily work activities and empowers employees to log their tasks efficiently. \nAdmin Credentials: # Email: testadmin@gmail.com #Password- 123@testadmin, Employee Credentials:	#Email: testemployee@gmail.com	#Password- 123@Testemployee",
+      "RaksiPasa is a full-stack MERN web app for e-commerce, offering Nepali domestic hard drinks with add-to-cart features and admin-managed CRUD operations for seamless product management.",
     image:
-      "https://user-images.githubusercontent.com/64485885/255202416-e1f89b04-2788-45b0-abc2-9dec616669e2.png",
+      "https://i.postimg.cc/QCL4WwqK/port1.png",
     tags: [
-      "Docker",
-      "AWS",
-      "DuckDNS",
-      "Eslint",
-      "Husky",
-      "CI/CD",
       "React Js",
       "MongoDb",
       "Node Js",
@@ -340,8 +334,7 @@ export const projects = [
       "Redux",
     ],
     category: "web app",
-    github: "https://github.com/rishavchanda/Trackify",
-    webapp: "https://trackify.duckdns.org",
+    github: "https://github.com/iamAkuma/mis-ebusiness-project",
   },
   // {
   //   id: 0,
