@@ -348,7 +348,7 @@ export const projects = [
     category: "browser extension",
     github: "https://github.com/iamAkuma/nepali-date-extension",
     webapp: "https://github.com/iamAkuma/nepali-date-extension/archive/refs/heads/main.zip",
-  }
+  },
   //   member: [
   //     {
   //       name: "Rishav Chanda",
@@ -364,26 +364,23 @@ export const projects = [
   //     },
   //   ],
   // },
-  // {
-  //   id: 1,
-  //   title: "Vexa",
-  //   date: "Oct 2022 - Present",
-  //   description:
-  //     "Designed and developed the Vexa project, a project management app that helps users and teams stay organized and on track. Implemented key features such as task tracking, team collaboration, and time tracking to improve productivity and project outcomes and also invite team/project members. The plan is to add a community of users where they can find developers and other team members and chat system implementation.",
-  //   image:
-  //     "https://user-images.githubusercontent.com/64485885/234916413-96296f13-fe4b-4cc4-b215-e72bd7c27928.png",
-  //   tags: [
-  //     "React Js",
-  //     "MongoDb",
-  //     "Node Js",
-  //     "Express Js",
-  //     "Redux",
-  //     "NodeMailer",
-  //   ],
-  //   category: "web app",
-  //   github: "https://github.com/rishavchanda/Project-Management-App",
-  //   webapp: "https://vexa-app.netlify.app/",
-  // },
+  {
+    id: 1,
+    title: "QR Code",
+    date: "2023",
+    description:
+      "The ultimate web app for generating QR codes from any link you provide. Easily create QR codes for websites, documents, and more with just a click!",
+    image:
+      "https://i.postimg.cc/nrh4Mts1/qr.png",
+    tags: [
+      "HTML",
+      "CSS",
+      "JS",
+    ],
+    category: "web app",
+    github: "https://github.com/iamAkuma/QRCode",
+    webapp: "https://iamakuma.github.io/QRCode/",
+  },
   // {
   //   id: 2,
   //   title: "Brain Tumor Detection",
