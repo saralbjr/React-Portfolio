@@ -369,7 +369,7 @@ export const projects = [
     title: "QR Code",
     date: "2023",
     description:
-      "The ultimate web app for generating QR codes from any link you provide. Easily create QR codes for websites, documents, and more with just a click!",
+      "The ultimate web app for generating QR codes from any link you provide. Easily create QR codes for websites with just a click!",
     image:
       "https://i.postimg.cc/nrh4Mts1/qr.png",
     tags: [
