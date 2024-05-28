@@ -325,7 +325,7 @@ export const projects = [
     description:
       "RaksiPasa is a full-stack MERN web app for e-commerce, offering Nepali domestic hard drinks with add-to-cart features and admin-managed CRUD operations for seamless product management.",
     image:
-      "https://i.postimg.cc/QCL4WwqK/port1.png",
+      "https://i.postimg.cc/8k6PQvJZ/image.png",
     tags: [
       "React Js",
       "MongoDb",
