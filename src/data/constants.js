@@ -193,12 +193,13 @@ export const experiences = [
   {
     id: 0,
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz-zf3hx5KX475VtfDufuUVps945SnX9Bnew&s",
-    role: "WordPress Developer Intern",
+    role: "ReactJS Intern",
     company: "Kathmandu Technical School, Kathmandu",
     date: "May 2024-",
-    desc: "My role involves revamping the school's website on WordPress and writing blogs to optimize SEO.",
+    desc: "My role involves building the school's website from scratch using ReactJS, while referencing the old website for content and design elements. Additionally, I write blogs to optimize SEO.",
     skills: [
-      "WordPress",
+      "ReactJS",
+      "Bootstrap",
       "Figma",
       "Blogging",
     ],
